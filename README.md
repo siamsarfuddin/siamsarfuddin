@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 <br>
 ## 📈 GitHub Stats
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fazlerabbinaim&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazlerabbinaim&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=siamsarfuddin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamsarfuddin&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
 </p> 
 <p align="center" align="left" > <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=siamsarfuddin&" alt="siamsarfuddin" /> </p>
  <br>   
